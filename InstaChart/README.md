@@ -26,7 +26,6 @@ I created four(4) Tables which are
 ### RESULT
 ![](Images/aisles_table.png)
 
-
 ---
 ### PRODUCTS TABLE
 ![](Images/products_query.png)
@@ -91,7 +90,7 @@ INSIGHT:::  A Customer bought 14 Coastal Chardonnay Wine on the Xmas day 2019
 
 
 ---
-Q5. Which year did Instacart generate the most profit?
+* Q5. Which year did Instacart generate the most profit?
 
 ### QUERY
 ![](Images/question5.png)
@@ -101,7 +100,7 @@ Q5. Which year did Instacart generate the most profit?
 INSIGHT::: Instacart generate the most profit of $3619153 in 2020 
 
 ---
-Q6.  How long has it been since the last cheese order?
+* Q6.  How long has it been since the last cheese order?
 
 ### QUERY
 ![](Images/question6.png)
@@ -112,7 +111,8 @@ INSIGHT:::  It has been 30 days since the last order
 
 
 ---
-Q7. What time of the day do we sell alcohols the most?
+* Q7. What time of the day do we sell alcohols the most?
+
 ### QUERY
 ![](Images/question7.png)
 ### RESULTS
@@ -120,6 +120,39 @@ Q7. What time of the day do we sell alcohols the most?
 
 
 INSIGHT:::  The time of the day we sell alcohol most is 10am with total sales of 19748
+
+---
+* Q8.  What is the total revenue generated in Qtr. 2 & 3 of 2016 from breads?
+
+### QUERY
+![](Images/question8.png)
+### RESULTS
+![](Images/question8_result.png)
+
+INSIGHT:::  The total revenue generated in Qtr. 2 & 3 of 2016 from breads $325498.00.
+
+---
+
+* Q9 Which 3  products do people buy at night(2020 - 2022)?
+
+### QUERY
+![](Images/question9.png)
+### RESULTS
+![](Images/question9_result.png)
+
+INSIGHT:::  The 3 Products people buy at Night is Tangerine Immunity Defense Powder ,Ready Crust Shortbread 9 Inch Pie Crust and
+Vegetable & Pepper Jack Cheese Flatbread Breakfast Sandwich.
+
+---
+
+* Q10. What is the total revenue generated from juice products?
+
+### QUERY
+![](Images/question10.png)
+### RESULTS
+![](Images/question10_result.png)
+
+INSIGHT::: The total revenue generated from juice products is $5807518.00
 
 
   
