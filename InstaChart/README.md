@@ -13,17 +13,19 @@ Instacart, an American company, provides grocery delivery and pick-up services i
 I used advanced SQL functions to import and normalize the dataset. Subsequently, I performed basic data analysis by querying the database, all within the PostgreSQL environment.
 
 I created four(4) Tables which are 
-### AISLES TABLE 
+
 ---
+### DEPARTMENTS TABLE
+![](Images/departments_query.png)
+### RESULT
+![](Images/departments_table.png)
+
+---
+### AISLES TABLE 
 ![](Images/aisles_query.png)
 ### RESULT
 ![](Images/aisles_table.png)
 
----
-### DEPARTMENTS TABLE
-![](Images/department_query.png)
-### RESULT
-![](Images/departments_table.png)
 
 ---
 ### PRODUCTS TABLE
@@ -50,11 +52,76 @@ I'll be using this database to solve the business problems that the owner of Ins
 
 ---
 * Q1 What are the top-selling products by revenue, and how much revenue have they generated?
+  ### QUERY
   ![](Images/question1.png)
   RESULT
-![](Images/question1_result)
+![](Images/question1_result.png)
+
+INSIGHT:::The top-selling product is the "Vanilla, Tangerine & Shortbread Ice Cream" with a total revenue of $20,496.00.
+
 
 ---
+* Q2 On which day of the week are chocolates mostly sold?
+### QUERY
+![](Images/question2.png)
+### RESULT
+![](Images/question2_result.png)
+
+INSIGHT::: The Day of the Week Chocolate sold mostly is Sunday , 8572 chocalates was sold.
+
+---
+* Q3 Do we have any dept where we have made over $15m in revenue and what is the profit?
+  ### QUERY
+  ![](Images/question3.png)
+  ### RESULT
+  ![](Images/question3_result.png)
+
+  INSIGHT::: We have seven(7) different deparment that made over $15m in revenue ,the highest department was Personal care Department
+  with $3917531 revenue
+
+  ---
+
+*Q4 Is it true that customers buy more alcoholic products on Xmas day 2019?
+### QUERY
+![](Images/question4.png)
+### RESULTS
+![](Images/question4_result.png)
+
+INSIGHT:::  A Customer bought 14 Coastal Chardonnay Wine on the Xmas day 2019 
+
+
+---
+Q5. Which year did Instacart generate the most profit?
+
+### QUERY
+![](Images/question5.png)
+### RESULTS
+![](Images/question5_result.png)
+
+INSIGHT::: Instacart generate the most profit of $3619153 in 2020 
+
+---
+Q6.  How long has it been since the last cheese order?
+
+### QUERY
+![](Images/question6.png)
+### RESULTS
+![](Images/question6_result.png)
+
+INSIGHT:::  It has been 30 days since the last order
+
+
+---
+Q7. What time of the day do we sell alcohols the most?
+### QUERY
+![](Images/question7.png)
+### RESULTS
+![](Images/question7_result.png)
+
+
+INSIGHT:::  The time of the day we sell alcohol most is 10am with total sales of 19748
+
+
   
 
 
