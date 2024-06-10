@@ -129,7 +129,8 @@ INSIGHT:::  The time of the day we sell alcohol most is 10am with total sales of
 ### RESULTS
 ![](Images/question8_result.png)
 
-INSIGHT:::  The total revenue generated in Qtr. 2 & 3 of 2016 from breads $325498.00.
+INSIGHT:::  The time of the day we sell alcohol most is 10am with total sales of 19748
+
 
 ---
 
@@ -154,10 +155,51 @@ Vegetable & Pepper Jack Cheese Flatbread Breakfast Sandwich.
 
 INSIGHT::: The total revenue generated from juice products is $5807518.00
 
+---
+
+## RECCOMMENDATIONS & CONCLUSIONS
+
+---
+### RECOMMENDATION
+
+Based on the detailed sales and revenue data, several targeted strategies can be recommended to further enhance InstaCart's performance and profitability:
+
+1. Promote Top-Selling Product:
+
+* "Vanilla, Tangerine & Shortbread Ice Cream": As the top-selling product, this ice cream can be further promoted to maximize sales. InstaCart should consider offering special deals, discounts, and prominent placement on the website and app to attract more customers. Seasonal promotions and bundling it with complementary products can also drive higher sales.
+
+
+2. Leverage High-Sales Days:
+
+* Sunday Chocolate Sales: With 8,572 chocolates sold mostly on Sundays, InstaCart should capitalize on this trend by introducing Sunday-specific promotions or bundles. Marketing efforts such as email campaigns, push notifications, and social media posts can highlight these deals to boost sales further.
 
   
+3. Focus on High-Revenue Departments:
+
+* Personal Care Department: Generating the highest revenue of $3,917,531 among the seven departments that each made over $15 million, this department should be a focal point for targeted promotions. Strategies such as exclusive product launches, loyalty rewards, and personalized marketing can enhance customer engagement and increase sales.
+
+  
+4. Address Gaps in Product Orders:
+
+* Cheese Orders: It has been 30 days since the last cheese order, indicating a potential issue or opportunity. InstaCart should investigate the reasons behind this gap and consider targeted promotions, reminders, or special offers to revive cheese sales.
+
+   
+5. Optimize High-Profit Periods:
+
+* Alcohol Sales at 10 AM: With the highest alcohol sales occurring at 10 AM (19,748 sales), InstaCart should implement morning promotions or "Happy Hour" deals to further capitalize on this peak time. Highlighting popular alcohol brands and offering discounts during this time can drive additional sales.
+  
+6. Maximize Nighttime Purchases:
+* Nighttime Popular Products: The products frequently bought at night – Tangerine Immunity Defense Powder, Ready Crust Shortbread 9 Inch Pie Crust, and Vegetable & Pepper Jack Cheese Flatbread Breakfast Sandwich – should be promoted with nighttime-specific discounts or bundle offers to encourage late-night shopping.
+  
+7. Seasonal and Holiday Promotions:
+* Christmas Purchases: The sale of 14 Coastal Chardonnay Wines on Christmas Day 2019 suggests a significant opportunity for seasonal promotions. InstaCart should develop holiday-themed marketing 
+ campaigns, special bundles, and gift sets to attract customers during festive seasons.
 
 
+8. Boost Juice Product Sales:
 
+* Juice Revenue: With total revenue from juice products reaching $5,807,518, targeted marketing campaigns can be designed to further promote these products. Offering health tips, recipes, and juice bundles can appeal to health-conscious consumers and drive higher sales.
 
-
+  
+### CONCLUSION
+InstaCart's comprehensive sales and revenue data reveal multiple opportunities for growth and increased profitability. By focusing on promoting the top-selling "Vanilla, Tangerine & Shortbread Ice Cream," leveraging high-sales days and peak times, and enhancing marketing efforts for high-revenue departments, InstaCart can drive higher sales and customer engagement. Addressing gaps in product orders and capitalizing on nighttime and seasonal purchase trends will further strengthen InstaCart's market position. Implementing these recommendations will ensure sustained growth, maximize profitability, and enhance customer satisfaction for InstaCart.
